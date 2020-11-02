@@ -1,6 +1,6 @@
 // numeral.js locale configuration
-// locale : italian Italy (it)
-// author : Giacomo Trombi : http://cinquepunti.it
+// locale : israeli (il)
+// author : Edward Sparks
 
 (function (global, factory) {
   if (typeof define === 'function' && define.amd) {
