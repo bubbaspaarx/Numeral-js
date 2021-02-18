@@ -17,10 +17,10 @@
           decimal: ','
       },
       abbreviations: {
-          thousand: 'א׳',
-          million: 'א׳׳',
-          billion: 'א׳׳׳',
-          trillion: 'א׳׳׳׳'
+          thousand: 'k',
+          million: 'm',
+          billion: 'bn',
+          trillion: 'tn'
       },
       ordinal: function (number) {
           return '';
