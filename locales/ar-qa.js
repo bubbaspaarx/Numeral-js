@@ -26,7 +26,7 @@
           return '';
       },
       currency: {
-          symbol: ' ر.ق'
+          symbol: 'ر.ق '
       }
   });
 }));
