@@ -6,13 +6,13 @@
  * http://adamwdraper.github.com/Numeral-js/
  */
 
-(function (global, factory) {
+(function (globl, factory) {
     if (typeof define === 'function' && define.amd) {
         define(factory);
     } else if (typeof module === 'object' && module.exports) {
         module.exports = factory();
     } else {
-        global.numeral = factory();
+        globl.numeral = factory();
     }
 }(this, function () {
     /************************************
