@@ -26,7 +26,7 @@
       return '.'
     },
     currency: {
-      symbol: 'SKK',
+      symbol: 'SEK',
     },
   })
 })
